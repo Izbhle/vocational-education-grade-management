@@ -1,0 +1,1 @@
+ALTER TABLE Lehrer ADD Name VARCHAR;
